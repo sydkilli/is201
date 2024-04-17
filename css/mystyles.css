@@ -1,0 +1,29 @@
+.ordernowfooter{
+    display: block;
+    background-color: hsl(34, 73%, 87%);
+    border-radius: 3pt;
+    border-color: rgba(230, 167, 86);
+  padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+  font-size: 2rem;
+  font-weight: var(--bs-nav-link-font-weight);
+  color: rgb(47, 23, 15);
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+.instalink{
+  position: relative;
+  text-align: center;
+}
+/*Div Styles*/
+.common{
+
+}
+.top{
+
+}
+.middle{
+
+}
+.bottom{
+
+}
