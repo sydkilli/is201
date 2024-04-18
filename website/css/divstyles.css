@@ -1,0 +1,60 @@
+/*positioning styles*/
+.common{
+    position: absolute;
+    border: 5px solid black;
+    background-color: wheat;
+}
+.bottom{
+   position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    background-color: lightblue;
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+.content{
+top: 85px;
+left: 0px;
+right: 0px;
+height: 200%;
+}
+.nav{
+    position: relative;
+    float: right;
+    color: white;
+    right: 5px;
+}
+h3{
+    font-style: bold;
+    text-decoration: underline;
+    position: relative;
+    left: 10px;
+}
+a{
+    color: coral;
+    position: relative;
+    float: right;
+    right: 120px;
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: wavy;
+   
+}
+.vidcenter{
+    display: block;
+    position: relative;
+    float: right;
+    right: 30px;
+}
